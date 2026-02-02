@@ -190,7 +190,7 @@ body {
 }
 .banner-main-home {
 	background-color: white;
-	background-image: url(../images/banner-bg-home.jpg);
+	background-image: url(../images/top_down_pool_table.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: bottom right;
@@ -962,4 +962,5 @@ textarea.form-control {	height:135px; }
 	.gallery_title h3 { font-size: 40px; }
 	.gallery_title h4 { font-size: 18px; }
 }
+
 
