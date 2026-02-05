@@ -188,7 +188,7 @@ body {
 	background-size: 100% 100%;
 }
 .banner-main-home {
-	background-image: url(../images/content.png);
+	background-image: url(../images/backgrounds.png);
 	background-repeat: no-repeat;
 	background-size: cover;	
 	min-height: 320px;	
@@ -958,6 +958,7 @@ textarea.form-control {	height:135px; }
 	.gallery_title h3 { font-size: 40px; }
 	.gallery_title h4 { font-size: 18px; }
 }
+
 
 
 
